@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nisheed2440/wordsearch.git"
+    "url": "git+https://github.com/shafeeqonline/jsjargons.git"
   },
   "keywords": [
     "jsfoo",
@@ -22,9 +22,9 @@
   "author": "Sapient",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nisheed2440/wordsearch/issues"
+    "url": "https://github.com/shafeeqonline/jsjargons/issues"
   },
-  "homepage": "https://github.com/nisheed2440/wordsearch#readme",
+  "homepage": "https://github.com/shafeeqonline/jsjargons#readme",
   "devDependencies": {
     "autoprefixer": "^6.4.1",
     "babel-core": "^6.14.0",
